@@ -7,13 +7,6 @@ Features
 - Navigation: Functional header links for Home and About pages (Categories and Contact are placeholders).
 - Local Storage: Blog posts persist in the browser for the user's session.
 
-## Repository Structure
-/my-blog
-├── index.html        # Home page with blog post form and display
-├── styles.css        # CSS for styling both pages
-├── script.js         # JavaScript for blog post functionality
-├── README.md         # Project documentation
-
 ## Setup
 
 Clone the Repository:
